@@ -57,13 +57,5 @@ Each project includes a detailed PDF case study with scenario summaries, tools u
 
 ---
 
-## 📬 Contact
-
-- **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub Profile URL]  
-- **Email:** [Your Email Address]  
-
----
-
 > All projects in this repository are for demonstration purposes and were completed as part of my cybersecurity training and hands-on labs.
 
