@@ -24,7 +24,7 @@ Each project includes a detailed PDF case study with scenario summaries, tools u
    Analyzed vulnerabilities in a small business network and proposed mitigation strategies.  
    **Skills:** Vulnerability scanning, risk assessment, remediation planning  
 
-5. **[Incident Response Documentation](05-Incident-Handler-Journal/Incident_Response_Portfolio.pdf)**  
+5. **[Incident Response Documentation](05-Incident-Handler-Journal/Incident_Response.pdf)**  
    Investigated and documented a ransomware incident using an Incident Handler’s Journal. Applied the NIST Incident Response Lifecycle and multiple security tools.  
    **Skills:** Incident documentation, ransomware analysis, phishing investigation, network analysis  
    **Tools:** Wireshark, tcpdump, VirusTotal  
