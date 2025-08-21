@@ -7,7 +7,7 @@ Each project includes a detailed PDF case study with scenario summaries, tools u
 
 ## 🎓 Certification
 
-[![Google Cybersecurity Professional Certificate](https://www.credly.com/badges/7356264c-9fc9-4279-9ad6-38ffc058e5ea/public_url)]
+[![Google Cybersecurity Professional Certificate](google-cybersecurity-professional-certificate-v2.png)](https://www.credly.com/badges/7356264c-9fc9-4279-9ad6-38ffc058e5ea/public_url)  
 
 ---
 
